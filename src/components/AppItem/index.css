@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.list-App {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  padding: 20px;
+}
+.image-size {
+  width: 40px;
+}
